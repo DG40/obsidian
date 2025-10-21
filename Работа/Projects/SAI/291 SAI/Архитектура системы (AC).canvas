@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"0f7c65fc305ba559","type":"text","text":"Database","x":-280,"y":-130,"width":120,"height":60,"color":"3"},
+		{"id":"e64372da053f13af","type":"text","text":"WEB API","x":-80,"y":-300,"width":100,"height":50,"color":"5"},
+		{"id":"8ae1bd8a325546d2","type":"text","text":"ANN Supervisor","x":0,"y":-130,"width":160,"height":60,"color":"1"},
+		{"id":"68f9ad0ed2e1cf60","type":"text","text":"Transcription Node","x":-88,"y":20,"width":176,"height":60,"color":"4"},
+		{"id":"d8254d090590face","type":"text","text":"Summarization Node","x":120,"y":20,"width":200,"height":60,"color":"2"},
+		{"id":"c9ac8d1ff9f1b3c3","type":"text","text":"Quantity: >= 1","x":-290,"y":130,"width":140,"height":60},
+		{"id":"4e6aa87b75dae06a","type":"text","text":"Clients","x":-332,"y":-560,"width":225,"height":60,"color":"#e100ff"},
+		{"id":"a45a880cb910aed4","type":"text","text":"Providers","x":80,"y":-560,"width":225,"height":60},
+		{"id":"ce46e73c4a235045","type":"text","text":"Network","x":-405,"y":-440,"width":810,"height":50,"color":"6"},
+		{"id":"9bfc4428806943e7","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Взаимодействие с клиентами.md","x":-880,"y":-647,"width":420,"height":347},
+		{"id":"ff851110a285fa4f","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Работа с БД.md","x":-880,"y":-150,"width":400,"height":400},
+		{"id":"a008377079f09067","type":"text","text":"Quantity: >= 0","x":335,"y":130,"width":140,"height":60},
+		{"id":"b1b3034359982e28","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Взаимодействие с ANN-модулем.md","x":640,"y":-120,"width":400,"height":400},
+		{"id":"53d3242de893b777","x":640,"y":-590,"width":400,"height":400,"type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Работа с Web API.md"}
+	],
+	"edges":[
+		{"id":"495742e8bd7e6485","fromNode":"e64372da053f13af","fromSide":"bottom","toNode":"0f7c65fc305ba559","toSide":"top"},
+		{"id":"d70f3ba7c77cbbf3","fromNode":"e64372da053f13af","fromSide":"bottom","toNode":"0f7c65fc305ba559","toSide":"top"},
+		{"id":"1e8af071b460a452","fromNode":"e64372da053f13af","fromSide":"bottom","toNode":"8ae1bd8a325546d2","toSide":"top"},
+		{"id":"f1a9fcff75ca6dd5","fromNode":"8ae1bd8a325546d2","fromSide":"bottom","toNode":"68f9ad0ed2e1cf60","toSide":"top"},
+		{"id":"ac60e190684c74d4","fromNode":"8ae1bd8a325546d2","fromSide":"bottom","toNode":"d8254d090590face","toSide":"top"},
+		{"id":"da2ee5890587931b","fromNode":"a008377079f09067","fromSide":"top","toNode":"d8254d090590face","toSide":"right"},
+		{"id":"2c3275be4b222373","fromNode":"c9ac8d1ff9f1b3c3","fromSide":"top","toNode":"68f9ad0ed2e1cf60","toSide":"left"},
+		{"id":"0dabab780f63218f","fromNode":"4e6aa87b75dae06a","fromSide":"bottom","toNode":"e64372da053f13af","toSide":"top","fromEnd":"arrow"},
+		{"id":"9ad709a4d26177c4","fromNode":"a45a880cb910aed4","fromSide":"bottom","toNode":"e64372da053f13af","toSide":"top","fromEnd":"arrow"},
+		{"id":"1a3425a275d79d03","fromNode":"9bfc4428806943e7","fromSide":"right","toNode":"4e6aa87b75dae06a","toSide":"left"},
+		{"id":"c4e7d6714b32f90d","fromNode":"ff851110a285fa4f","fromSide":"right","toNode":"0f7c65fc305ba559","toSide":"left"},
+		{"id":"aded61a974a3fa0f","fromNode":"b1b3034359982e28","fromSide":"left","toNode":"8ae1bd8a325546d2","toSide":"right"},
+		{"id":"5373b05f7760f6eb","fromNode":"53d3242de893b777","fromSide":"left","toNode":"e64372da053f13af","toSide":"right"}
+	]
+}
