@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e6b95a661c09172",
+        "id": "b5bcbd6a5aa04a98",
         "type": "tabs",
         "children": [
           {
-            "id": "4b03484c6c4f0069",
+            "id": "f2f74dc39b3119bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,9 +166,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "4b03484c6c4f0069",
+  "active": "f2f74dc39b3119bc",
   "lastOpenFiles": [
-    "Работа/Projects/SAI/Если валится сервер.md",
-    "Работа/Projects/SAI/ЗАДАЧИ.md"
+    "Работа/Отчетность/Daily/2025-10-27.md",
+    "Работа/Сделать.md",
+    "Работа/Статусы.md",
+    "Работа/Projects/SAI/Notes.md",
+    "Работа/Projects/SAI/ЗАДАЧИ.md",
+    "Работа/Projects/SAI/Если валится сервер.md"
   ]
 }
