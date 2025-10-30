@@ -71,3 +71,74 @@ goland - среда для golang, если интересно
 
 **БАГ**
 В запросе на создание/обновление провайдера вылетает ошибка, связанная (скорее всего) с неподдержанным эндпоинтом (короче версия TCS)
+
+__________________
+
+Андрей Шкунов, [23.10.2025 17:42]  
+openssl - утилита для работы с tls-сертификатами. понадобится при работе с лицензиями и при работе с https  
+  
+[23.10.2025 17:43]  
+https://op.trueconf.com/projects/3/?jump=home  
+  
+[23.10.2025 18:38]  
+https://github.com/spf13/viper  
+  
+[23.10.2025 18:46]  
+https://habr.com/ru/articles/555920/  
+  
+[23.10.2025 19:01]  
+тксы  
+KLM111-B9C1-49CD-F5F6  
+KLM112-6EDB-3A71-2A83  
+  
+ну в любом случае, думаю что всегда надо переустанавливать ибо сборки специальные.  
+В принципе, команда должна работать  
+sudo apt install -yq ./trueconf-server-name.deb  
+  
+Если возникают проблемы, то можно удалить через  
+sudo apt purge trueconf-server  
+и переустановить сервак  
+  
+Вот инструкции  
+https://trueconf.ru/blog/baza-znaniy/kak-za-15-minut-razvernut-sistemu-videokonferenczij-na-baze-os-linux  
+https://trueconf.ru/blog/baza-znaniy/kak-obnovit-trueconf-server  
+  
+[23.10.2025 19:04]  
+бд https://builder.trueconf.com/view/Speech%20To%20Text/view/TrueConf/job/ai_server_upload_db_100/  
+  
+[23.10.2025 19:04]  
+апи https://builder.trueconf.com/view/Speech%20To%20Text/view/TrueConf/job/ai_server_web_api_101/  
+  
+[23.10.2025 19:10]  
+host all all 0.0.0.0/0 trust  
+  
+[23.10.2025 19:12]  
+listen_addresses = '*'  
+  
+[23.10.2025 19:14]  
+https://open-vsx.org/extension/cweijan/vscode-database-client2  
+  
+[23.10.2025 19:14]  
+https://open-vsx.org/extension/cweijan/dbclient-jdbc  
+  
+[23.10.2025 19:20]  
+репа с конфигами  
+  
+https://gitlab.trueconf.com/products/speech2text/extconfig
+
+Андрей Шкунов, [24.10.2025 13:05]  
+![[pam (2).c]]
+это сишный исходник про авторизацию админов саи через учётки в линухе  
+  
+собирать вот так: gcc pam.c -lpam -lpam_misc -o pam_auth  
+  
+запускать через судо  
+  
+[24.10.2025 13:05]  
+https://team.trueconf.com/files/5b542f372cd2716fc78f35a8b083dbd98f0566ba  
+  
+[24.10.2025 13:21]  
+только там вроде надо какие-то либы доставить, чтобы собрать это гавно  
+  
+[24.10.2025 13:22]  
++ хуйня не для этой версии продукта
