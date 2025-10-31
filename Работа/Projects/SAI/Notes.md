@@ -41,7 +41,7 @@ trueconf-ai-db
 
 БД по умолчанию не позволяет удалённо подключиться. Для удалённого подключения:
 cd /opt/trueconf/ai-server
-cd /etc/database
+cd etc/database
 там 2 файла:
 * pg_hba.conf
 * postgresql.conf
