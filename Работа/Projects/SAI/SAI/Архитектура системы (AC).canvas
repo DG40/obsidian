@@ -9,11 +9,11 @@
 		{"id":"4e6aa87b75dae06a","type":"text","text":"Clients","x":-332,"y":-560,"width":225,"height":60,"color":"#e100ff"},
 		{"id":"a45a880cb910aed4","type":"text","text":"Providers","x":80,"y":-560,"width":225,"height":60},
 		{"id":"ce46e73c4a235045","type":"text","text":"Network","x":-405,"y":-440,"width":810,"height":50,"color":"6"},
-		{"id":"9bfc4428806943e7","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Взаимодействие с клиентами.md","x":-880,"y":-647,"width":420,"height":347},
-		{"id":"ff851110a285fa4f","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Работа с БД.md","x":-880,"y":-150,"width":400,"height":400},
+		{"id":"9bfc4428806943e7","type":"file","file":"obsidian/Работа/Projects/SAI/SAI/Взаимодействие с клиентами.md","x":-880,"y":-647,"width":420,"height":347},
+		{"id":"ff851110a285fa4f","type":"file","file":"obsidian/Работа/Projects/SAI/SAI/Работа с БД.md","x":-880,"y":-150,"width":400,"height":400},
 		{"id":"a008377079f09067","type":"text","text":"Quantity: >= 0","x":335,"y":130,"width":140,"height":60},
-		{"id":"b1b3034359982e28","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Взаимодействие с ANN-модулем.md","x":640,"y":-120,"width":400,"height":400},
-		{"id":"53d3242de893b777","type":"file","file":"obsidian/Работа/Projects/SAI/291 SAI/Работа с Web API.md","x":640,"y":-590,"width":400,"height":400}
+		{"id":"b1b3034359982e28","type":"file","file":"obsidian/Работа/Projects/SAI/SAI/Взаимодействие с ANN-модулем.md","x":640,"y":-120,"width":400,"height":400},
+		{"id":"53d3242de893b777","type":"file","file":"obsidian/Работа/Projects/SAI/SAI/Работа с Web API.md","x":640,"y":-590,"width":400,"height":400}
 	],
 	"edges":[
 		{"id":"495742e8bd7e6485","fromNode":"e64372da053f13af","fromSide":"bottom","toNode":"0f7c65fc305ba559","toSide":"top"},
