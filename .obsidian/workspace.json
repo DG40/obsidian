@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Работа/Projects/SAI/Notes.md",
+                "file": "Pet projects/Идеи для проекта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Идеи для проекта"
             }
           }
         ]
@@ -166,17 +166,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "f2f74dc39b3119bc",
+  "active": "4469d1aee380aad1",
   "lastOpenFiles": [
-    "pam (2).c",
-    "Работа/Projects/SAI/Если валится сервер.md",
-    "Работа/Отчетность/Daily/2025-10-29.md",
-    "Работа/Projects/SAI/ЗАДАЧИ.md",
-    "Работа/Отчетность/Daily/2025-10-28.md",
-    "Работа/Projects/SAI/АК.md",
-    "Работа/Отчетность/Daily/2025-10-27.md",
-    "Работа/Сделать.md",
-    "Работа/Статусы.md",
-    "Работа/Projects/SAI/Notes.md"
+    "Новогодний отпуск.md",
+    "Pet projects/Идеи для проекта.md",
+    "Pet projects",
+    "Notes.md",
+    "Дом/Поездки.md",
+    "Дом/Новольвовск.md",
+    "Дом/Лефортово.md",
+    "Дом/Гора.md",
+    "Дом/Заболотье.md",
+    "Money.md",
+    "Дела/Points.md",
+    "Дела/Дела.md",
+    "Personalities/Даша.md",
+    "Работа/Отчетность/Daily/2025-11-18.md",
+    "Работа/Отчетность/Daily/Tasks.md",
+    "Работа/Projects/SAI/Notes.md",
+    "Работа/Отчетность/Weekly 3.md",
+    "Работа/Отчетность/Weekly 2.md",
+    "Работа/Отчетность/Weekly 1.md",
+    "Работа/Отчетность/Daily/2025-11-17.md",
+    "Работа/income.md",
+    "Работа/Projects/SAI/Мои заметки.md",
+    "Работа/Projects/SAI/SAI/Работа с БД.md",
+    "Работа/Projects/SAI/SAI/Работа с Web API.md",
+    "Работа/Projects/SAI/SAI/О проекте.md",
+    "Работа/Projects/SAI/SAI/Взаимодействие с клиентами.md",
+    "Работа/Projects/SAI/SAI/Взаимодействие с ANN-модулем.md",
+    "Работа/Projects/SAI/SAI/Архитектура системы (AC).canvas",
+    "Работа/Projects/SAI/SAI",
+    "Дела/Виза",
+    "Дела",
+    "SAI.zip",
+    "pam (2).c"
   ]
 }
